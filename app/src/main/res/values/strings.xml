@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="city_name_hint">Enter City Name</string>
+    <string name="btn_lookup">Lookup</string>
+    <string name="empty_city">Please enter city name!</string>
+    <string name="feel_like_str">Feels Like:</string>
+</resources>
